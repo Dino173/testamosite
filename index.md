@@ -9,7 +9,12 @@
   <link rel="icon" type="image" href="https://code.s3.yandex.net/web-code/js-favicon.ico">
 </head>
 <body>
-  <div class="header">
+
+ <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"808093",hash:"7d0988ab1261dd79d05018f02092cca5",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_808093" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1626269966"></script>
+
+
+
+ <div class="header">
     <p class="logo">Procrastinate.</p>
     <div class="button">Ещё идея</div>
   </div>
@@ -25,6 +30,11 @@
   <p class="footer">© 2020 Сделал Тим Бернерс-Ли</p>
 
   <script src="script.js"></script>
+
+
+<script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"808096",hash:"858d69579c3bf2724c4dc793fb8553b0",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_808096" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1626270037"></script>
+
+
 </body>
 </html>
 

@@ -7,24 +7,6 @@
   <title>Procrastinate.</title>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" type="image" href="https://code.s3.yandex.net/web-code/js-favicon.ico">
-
-  <script>
-
-    var user_name = "Nicolay";
-    var user_email = "dino@ya.ru";
-    
-    amo_social_button.setMeta({
-
-      bot_params: {
-        username: user_name,
-        useremail: user_email
-}
-
-});
-
-
-
-  </script>
 </head>
 <body>
 

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -9,9 +8,8 @@
   <link rel="icon" type="image" href="https://code.s3.yandex.net/web-code/js-favicon.ico">
 </head>
 <body>
-
- <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"808093",hash:"7d0988ab1261dd79d05018f02092cca5",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_808093" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1626269966"></script>
-
+  
+    <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"855172",hash:"075b908baab92ba6bc81f910297efda6",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_855172" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1635581734"></script>
 
 
  <div class="header">
@@ -31,8 +29,7 @@
 
   <script src="script.js"></script>
 
-
-<script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"808096",hash:"858d69579c3bf2724c4dc793fb8553b0",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_808096" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1626270037"></script>
+  <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"855175",hash:"503b53751ca7d7addf6a30bf8097c8da",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_855175" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1635581752"></script>
 
 <script>
  var user_name = "Nicolay";

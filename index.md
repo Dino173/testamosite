@@ -31,20 +31,7 @@
 
   <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"855175",hash:"503b53751ca7d7addf6a30bf8097c8da",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_855175" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1635581752"></script>
 
-<script>
- var user_name = "Nicolay";
-    var user_email = "dino@ya.ru";
-    
-  
-(function(a,m,o,c,r,m){a[m]={id:"52775",hash:"5e3e83206e944f580675e6b4cd5a6893ed1c562bf7dea68b1d13c73171c0c31e",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js?1630311457';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));
-  amo_social_button.setMeta({
-
-      bot_params: {
-        username: user_name,
-        useremail: user_email
-  }
-})
-</script>
+<script>(function(a,m,o,c,r,m){a[m]={id:"88003",hash:"1048f2a0cf242a5cc6c3a78fd9eb1fa8543bafb808c767de200873919121a0d8",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js?1637243104';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));</script>
 
 </body>
 </html>
